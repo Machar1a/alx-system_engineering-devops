@@ -1,5 +1,0 @@
-#!/bin/bash
-cd /tmp
-ls
-mv betty /tmp/my_first_directory
-cd /tmp/my_first_directory; ls

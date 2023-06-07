@@ -1,8 +1,0 @@
-#!/bin/bash
-echo "Printing current directory"
-ls -al ./
-echo "Printing parent directory"
-ls -al ../
-echo "Printing boot directory"
-ls -al /boot
-echo "OP completed"
