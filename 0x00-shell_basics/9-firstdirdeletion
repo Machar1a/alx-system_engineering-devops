@@ -1,4 +1,2 @@
 #!/bin/bash
-cd /tmp; ls
-rm -r -v /my_first_directory
-ls
+rm -r -v /tmp/my_first_directory
